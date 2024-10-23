@@ -1,0 +1,24 @@
+{
+    "users": {
+      "userId1": {
+        "email": "user1@example.com",
+        "name": "User One",
+        "password": "password1",
+        "trips": {
+          "tripId1": {
+            "description": "Viagem à praia",
+            "date": "2024-10-01",
+            "location": "Praia do Futuro, CE",
+            "image": "url_da_imagem"
+          },
+          "tripId2": {
+            "description": "Viagem a São Paulo",
+            "date": "2024-10-10",
+            "location": "São Paulo, SP",
+            "image": "url_da_imagem"
+          }
+        }
+      }
+    }
+  }
+  
